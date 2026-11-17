@@ -3,7 +3,7 @@
  "width": 1037,
  "height": 956,
  "refined": true,
- "parts": [
+ "parts": [{"name":"face_sad","z":41,"file":"face_sad.png","added":true,"expr":"sad","x":355,"y":274,"w":294,"h":258,"visible":0,"filled":0},{"name":"face_angry","z":41.1,"file":"face_angry.png","added":true,"expr":"angry","x":355,"y":274,"w":294,"h":258,"visible":0,"filled":0},
   {
    "name": "hair_back",
    "z": 0,
