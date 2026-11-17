@@ -3,7 +3,7 @@
  "width": 1037,
  "height": 956,
  "refined": true,
- "parts": [{"name":"face_sad","z":46.5,"file":"face_sad.png","added":true,"expr":"sad","x":273,"y":154,"w":430,"h":378,"visible":0,"filled":0},{"name":"face_angry","z":46.6,"file":"face_angry.png","added":true,"expr":"angry","x":226,"y":154,"w":478,"h":378,"visible":0,"filled":0},
+ "parts": [{"name":"face_sad","z":46.5,"file":"IMG_0016.png","added":true,"expr":"sad","x":273,"y":154,"w":430,"h":378,"visible":0,"filled":0},{"name":"face_angry","z":46.6,"file":"IMG_0017.png","added":true,"expr":"angry","x":226,"y":154,"w":478,"h":378,"visible":0,"filled":0},
   {
    "name": "hair_back",
    "z": 0,
